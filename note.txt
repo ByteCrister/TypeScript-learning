@@ -1,0 +1,6 @@
+
+//01 -  tsc file_name.ts --watch
+
+//02 -  tsc --init
+
+//03 -  npx create-react-app my-app --template typescript
